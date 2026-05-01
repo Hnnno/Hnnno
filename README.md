@@ -34,12 +34,3 @@ Cloud         AWS · Azure (IAM, seguridad)
 Datos         Jupyter · Pandas · pipelines de datos
 Herramientas  Git · automatización · REST APIs
 ```
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hnnno&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnnno&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
